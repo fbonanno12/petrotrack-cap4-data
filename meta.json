@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "generatedAt": "2026-05-28T19:02:32.190Z",
+  "dataHash": "29c905941a6d",
+  "concessionsHash": "b65ef4a580d0",
   "pozosCount": 85380,
   "pozosWithProduction": 84815,
   "yearsIncluded": [
