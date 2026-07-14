@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-05-28T19:02:32.190Z",
-  "dataHash": "29c905941a6d",
+  "generatedAt": "2026-07-13T16:29:58.205Z",
+  "dataHash": "83cae6f3093a",
   "concessionsHash": "b65ef4a580d0",
   "pozosCount": 85380,
   "pozosWithProduction": 84815,
@@ -15,6 +15,24 @@
     2020,
     2019
   ],
+  "situacion_counts": {
+    "Extracción Efectiva": 25419,
+    "En Inyección Efectiva": 5874,
+    "Abandonado": 20078,
+    "Otras Situación Activo": 205,
+    "A Abandonar": 2641,
+    "Otras Situación Inactivo": 1356,
+    "Parado Transitoriamente": 5837,
+    "En Reparación": 43,
+    "Abandono Temporario": 1399,
+    "En Reserva de Gas": 557,
+    "En Estudio": 9093,
+    "En Espera de Reparación": 1963,
+    "Parado Alta Relación Agua/Petróleo": 1103,
+    "En Reserva para Recup. Sec./Asist.": 9102,
+    "Parado Alta Relación Gas/Petróleo": 103,
+    "Mantenimiento de Presión": 41
+  },
   "cuencas": [
     "AUSTRAL",
     "CAÑADON ASFALTO",
